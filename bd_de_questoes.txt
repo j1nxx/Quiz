@@ -1,0 +1,34 @@
+[Questão] Os sobrinhos do personagem da Disney chamado de Pato Donald são:
+[1- a]  Huguinho, Zézinho e Paulinho.
+[2- b]  Joãozinho, Zézinho, Huguinho e Paulinho.
+[3 -c]  Juninho, Zézinho e Huguinho.
+[4 -d]  Luizinho, Huguinho e Zézinho.
+[5 -e]  Patinho, Patola e Patinhozinho.
+
+[Questão] A metade da metade de 12 é igual a:
+[1 -a] 6.
+[2 -b] 4.
+[3 -c] 2.
+[4 -d] 3.
+[5 -e] 12.
+
+[Questão] Nome do rio onde fica a Cachoeira de Paulo Afonso:
+[1 -a] São Francisco.
+[2 -b] Paraná.
+[3 -c] Tietê.
+[4 -d] Paraíba do Sul.
+[5 -e] Amazonas.
+
+[Questão] Uma dessas afirmações está ERRADA:
+[1 -a] A árvore símbolo que deu nome ao nosso país é o Pau Brasil.
+[2 -b] Jacaré é um réptil.
+[3 -c] Mamute era um anfíbio.
+[4 -d] lua é o satélite natural da terra.
+[5 -e] piranha é um peixe de água doce.
+
+[Questão 5] Ao entrar numa sala, João contou 4 pessoas, incluindo ele. Todos estavam calçados. Sem contar com ele quantos sapatos havia na sala:
+[1 -a] 4.
+[2 -b] 6.
+[3 -c] 8.
+[4 -d] 16	
+[5 -e] 10.

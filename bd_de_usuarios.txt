@@ -1,0 +1,35 @@
+[USUARIO_NO] 
+Nome: deborah
+Login: debs
+Senha: 12345
+POntuação: 150 
+Perfil: 1
+
+[USUARIO_NO] 
+Nome: eliomar
+Login: eli
+Senha: 123456
+POntuação: 160 
+Perfil: 1
+
+[USUARIO_NO] 
+Nome: lucas
+Login: lucas09
+Senha: 123fs45
+POntuação: 140 
+Perfil: 1
+
+[USUARIO_NO] 
+Nome: diego
+Login: dwolf
+Senha: @wowr
+POntuação: 120 
+Perfil: 1
+
+[USUARIO_NO] 
+Nome: thiago
+Login: thiago10
+Senha: deborahvaipassar
+POntuação: 130
+Perfil: 0
+
